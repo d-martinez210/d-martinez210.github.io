@@ -1,9 +1,7 @@
 const phrases = [
-  "Hola, ¿cómo estás?",
-  "¿Qué planes tienes para hoy?",
-  "Me gusta mucho el helado",
-  "¿Te gustaría ir al cine conmigo?",
-  "La lluvia es muy refrescante"
+      "Hola Eli",
+      "¿Como estas?",
+      "Hay que vernos en estos dias"
 ];
 
 let phraseIndex = 0;
