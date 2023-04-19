@@ -1,6 +1,6 @@
 const phrases = [
       "Hola Eli",
-      "¿Como estas?",
+      "¿Cómo estás?",
       "Hay que vernos en estos dias"
 ];
 
